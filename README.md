@@ -75,7 +75,7 @@ Business Insights Generation
 
 **Dashboard Preview**
 
-![Walmart-Sales-Analysis](Images/walmart_dashboard.jpg)
+![Walmart Dashboard](Walmart-Sales-Analysis/Images/walmart_dashboard.jpg)
 
 **📌 Skills Demonstrated**
 
