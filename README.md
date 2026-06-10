@@ -80,14 +80,16 @@ Business Insights Generation
 **📌 Skills Demonstrated**
 
 Data Cleaning
+Data Transformation
 SQL Query Writing
 Data Visualization
 Dashboard Design
 Business Analysis
 Power BI
-Python
+Python (Pandas)
 MySQL
 Microsoft Excel
+GitHub
 
 **👩‍💻 Author**
 
